@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bikes>
+        <bike>
+            <key>Yamaha</key>
+            <description>Precision-built for everyday thrills and track-ready performance.</description>
+            <description>Yamaha delivers agile handling and bulletproof reliability.</description>
+            <description>A well-rounded choice with smooth power delivery and refined design.</description>
+            <image>yamaha</image>
+        </bike>
+
+        <bike>
+            <key>Ducati</key>
+            <description>Italian design meets roaring power and prestige.</description>
+            <description>Ducati bikes are bold, beautiful, and performance-focused.</description>
+            <description>High-revving V-twins and iconic styling define Ducati’s legacy.</description>
+            <image>ducati</image>
+        </bike>
+
+        <bike>
+            <key>Honda</key>
+            <description>Legendary reliability with a smooth ride and smart tech.</description>
+            <description>Honda blends comfort, precision, and competitive performance.</description>
+            <description>Track-ready DNA built into a bike anyone can ride.</description>
+            <image>honda</image>
+        </bike>
+
+        <bike>
+            <key>Aprilia</key>
+            <description>Racing heritage with sharp styling and lightweight agility.</description>
+            <description>Aprilia bikes thrive on the edge — made for pure speed lovers.</description>
+            <description>Innovative Italian tech meets motorsport performance.</description>
+            <image>aprilia</image>
+        </bike>
+
+        <bike>
+            <key>Suzuki</key>
+            <description>Suzuki delivers dependable power and smooth performance.</description>
+            <description>Lightweight and balanced — ideal for spirited street or track use.</description>
+            <description>A trusted name in supersport performance and commuter value.</description>
+            <image>suzuki</image>
+        </bike>
+
+        <bike>
+            <key>Kawasaki</key>
+            <description>Kawasaki is known for aggressive styling and raw power.</description>
+            <description>Ninja-inspired bikes that dominate both street and circuit.</description>
+            <description>Performance-driven engineering with bold, green DNA.</description>
+            <image>kawasaki</image>
+        </bike>
+    </bikes>
+
+</resources>
